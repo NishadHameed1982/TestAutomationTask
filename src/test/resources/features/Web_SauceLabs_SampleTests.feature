@@ -26,7 +26,7 @@ Feature: Verify item selection via saucelabs.
     Examples:
       | fileName                 | sheetName1    | row |
       | TestInput_SauceLabs.xlsx | LockedOutUser | 0   |
-    
+
   @Negative
   Scenario Outline:03 Verify that an appropriate error will be displayed if the entered user credentials is invalid
     Given Enter UserName from file "<fileName>" sheet "<sheetName1>" and row <row>
