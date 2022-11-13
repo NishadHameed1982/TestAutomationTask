@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce09b260-3d97-4ed3-b9a9-82d6ed9c9fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/automationtestproject/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/CucumberTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/stepdefinitions/WebSauceLabsStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/utilities/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/utilities/PropertyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/webpages/Saucelabs_CheckoutCompleted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/webpages/Saucelabs_CheckoutOverview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/webpages/Saucelabs_CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/webpages/Saucelabs_HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/webpages/Saucelabs_LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtestproject/webpages/Saucelabs_YourCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber-serenity-runner.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Web_SauceLabs_SampleTests.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/propertiesfile/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/TestInput_SauceLabs.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/webdriver/windows/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/webdriver/windows/geckodriver.exe" afterDir="false" />
+    <list default="true" id="ce09b260-3d97-4ed3-b9a9-82d6ed9c9fd5" name="Changes" comment="Automation Test Project by Nishad Hameed">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Web_SauceLabs_SampleTests.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Web_SauceLabs_SampleTests.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668110389740</updated>
     </task>
+    <task id="LOCAL-00001" summary="Automation Test Project by Nishad Hameed">
+      <created>1668314426436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668314426436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Automation Test Project by Nishad Hameed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Automation Test Project by Nishad Hameed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
