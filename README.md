@@ -7,7 +7,7 @@ Test Aitomation Task by Nishad Hameed
 | :----: | :----: | :----: | :----: | :----: |  :----: | 
 |[<img width="50" height="50" src="https://github.com/NishadHameed1982/TestAutomationTask/blob/master/logos/IntelliJ.png">](https://www.jetbrains.com/idea/)|[<img height="60" src="https://github.com/NishadHameed1982/TestAutomationTask/blob/master/logos/Java.png">](https://www.oracle.com/java/technologies/java-se-glance.html)|[<img height="60" src="https://github.com/NishadHameed1982/TestAutomationTask/blob/master/logos/Cucumber.png">](https://cucumber.io/tools/cucumber-open/)|[<img height="60" src="https://github.com/NishadHameed1982/TestAutomationTask/blob/master/logos/SeleniumWebdriver.png">](https://www.selenium.dev/)|[<img height="45" src="https://github.com/NishadHameed1982/CanadaCargoesCommunityVBS/blob/main/Logos/Junit5.png">](https://junit.org/junit5/docs/current/user-guide/)|[<img height="60" src="https://github.com/NishadHameed1982/TestAutomationTask/blob/master/logos/SerenityBDD.png">](https://github.com/serenity-bdd)|
 
-✔ Created using Java Serenity BDD framework for API tasks.<br/>
+✔ Created using Java Serenity BDD framework<br/>
 
 ### Prerequisites
 ✔ Maven version 3 or above and JDK version 11 or above are already installed on the host machine.<br/>
