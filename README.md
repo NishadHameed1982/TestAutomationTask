@@ -41,3 +41,6 @@ Application's environments are configured in the test/resources/serenity.conf fi
 ### Other libraries used in the framework
 ✔ Assertj - To assert the tests. Soft assertions are used where multiple assertions are present to see all passing assertions along with the failed ones.<br/>
 
+
+src="https://github.com/NishadHameed1982/TestAutomationTask/blob/master/logos/IntelliJ.png
+
